@@ -1,0 +1,31 @@
+.head {
+    text-align: center;
+    background-color: azure;
+    margin-bottom: 50px;
+
+}
+
+.input {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: 15px;
+    border-color: rgb(94, 94, 240);
+}
+
+.imgc {
+    border: 15px;
+    background-color: bisque;
+    border-radius: 25px;
+}
+
+.btn {
+    background-color: rgb(105, 105, 230);
+    color: white;
+    height: 35px;
+}
+
+.value {
+    border-color: rgb(134, 134, 248);
+}
